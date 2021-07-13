@@ -21,4 +21,7 @@ import module
 """of course replace module here with the module you just downloaded"""
 ```
 
-
+NOTE:
+* i am using python version 3.8.6
+* there is no copyright on any of these scripts
+* have fun and keep coding!
